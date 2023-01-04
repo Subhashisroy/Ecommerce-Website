@@ -27,8 +27,8 @@ It's a simulation of client side e-commerce website with featues as <b>select a 
       </tbody>    
 </table
 
+<h3> Features </h3>
 <!-- ## Features -->
-  <h3>Features</h3>
 <table>
       <tbody>
          <tr>
@@ -40,6 +40,9 @@ It's a simulation of client side e-commerce website with featues as <b>select a 
           <td>All products are Categorically Distincted</td>
           </tr>
           <tr>
+          <td>Product detail pages</td>
+          </tr>
+          <tr>
           <td><b>Google Maps</b></td>
           </tr>
           <tr>
@@ -49,7 +52,13 @@ It's a simulation of client side e-commerce website with featues as <b>select a 
           <td>Sorted product grid</td>
           </tr>
           <tr>
+          <td>Drop-down menu</td>
+          </tr>
+          <tr>
           <td><b>Checkout pages</b></td>
+          </tr>
+          <tr>
+          <td>Contact form</td>
           </tr>
         </tr>
         </tbody>    
