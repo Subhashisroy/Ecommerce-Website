@@ -21,7 +21,7 @@ It's a simulation of client side e-commerce website with featues as <b>select a 
            <th>CSS</th>
         </tr>
           <tr>
-           <th>Font awesome</th>
+           <th>Font Awesome</th>
            <th>Bootstrap 5</th>
          </tr>
       </tbody>    
