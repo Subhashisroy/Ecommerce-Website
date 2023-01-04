@@ -1,4 +1,3 @@
-# Project Name: Ecommerce Website
 <div align="center">
 
   <img src="https://colorlib.com/wp/wp-content/uploads/sites/2/ecommerce-website-builder.jpg.webp" alt="logo" width="400" height="auto" />
