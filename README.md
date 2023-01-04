@@ -32,7 +32,7 @@ It's a simulation of client side e-commerce website with featues as <b>select a 
 <table>
       <tbody>
          <tr>
-          <td>Mian sections are Home, Shop, Pages, Blog and contact.</td>
+          <td>Main sections are Home, Shop, Pages, Blog and contact.</td>
           <tr>
           <td>Web site is <b>Fully Responsive</b></td>
           </tr>
