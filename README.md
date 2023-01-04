@@ -26,3 +26,30 @@ It's a simulation of client side e-commerce website with featues as <b>select a 
          </tr>
       </tbody>    
 </table
+
+## Features
+<table>
+      <tbody>
+         <tr>
+          <td>Mian sections are Home, Shop, Pages, Blog and contact.</td>
+          <tr>
+          <td>Web site is <b>Fully Responsive</b></td>
+          </tr>
+          <tr>
+          <td>All products are Categorically Distincted</td>
+          </tr>
+          <tr>
+          <td><b>Google Maps</b></td>
+          </tr>
+          <tr>
+          <td><b>Shopping cart</b></td>
+          </tr>
+          <tr>
+          <td>Sorted product grid</td>
+          </tr>
+          <tr>
+          <td><b>Checkout pages</b></td>
+          </tr>
+        </tr>
+        </tbody>    
+</table>
