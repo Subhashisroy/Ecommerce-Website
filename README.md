@@ -27,7 +27,8 @@ It's a simulation of client side e-commerce website with featues as <b>select a 
       </tbody>    
 </table
 
-## Features
+<!-- ## Features -->
+  <h3>Features</h3>
 <table>
       <tbody>
          <tr>
